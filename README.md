@@ -39,14 +39,14 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
   <a href="https://progress.com/" target="_blank" rel="noreferrer"> <img src="https://www.progress.com/favicon.ico" alt="progress" width="40" height="40"/> </a>
-  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://www.nagios.org/wp-content/uploads/nagiosx1.svg" alt="nagios" width="40" height="40"/> </a>
+  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://www.nagios.org/wp-content/uploads/2023/12/Nagios-Logo-Black.svg" alt="nagios" width="40" height="40"/> </a>
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!-- Testing Tools -->
   <a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://swagger.io/favicon-32x32.png" alt="swagger" width="40" height="40"/> </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/> </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
    <!-- Others -->
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
